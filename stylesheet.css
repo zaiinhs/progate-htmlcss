@@ -23,6 +23,10 @@ a {
   clear: left;
 }
 
+.menu-icon{
+  display: none;
+}
+
 .container {
   max-width: 1170px;
   padding: 0 15px;
